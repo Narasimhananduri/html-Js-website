@@ -1,0 +1,36 @@
+body {font-family: Verdana, sans-serif; margin:0}
+.back{
+	background-color:black;
+}
+.square_btn{
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px 10px 10px;
+    text-decoration: none;
+    border-left: solid 4px #668ad8;
+    border-right: solid 4px #668ad8;
+    color: ##000000;
+    background: #e1f3ff;
+    transition: .4s;
+}
+
+.square_btn:hover {
+    background: #000000;
+    color: #FFF;
+	border-left: solid 4px #FFF;
+    border-right: solid 4px #FFF;
+}
+
+.title{
+	text-align: center;
+}
+
+.NEWS{
+	padding: 10px 10px 10px;
+	float: left;
+}
+.ads{
+	
+
+}

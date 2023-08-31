@@ -1,0 +1,32 @@
+.artical{
+	display: block;
+
+}
+.news1{
+	padding: 30px 30px 0;
+	height: 140px;
+	margin: 20px;
+	padding-left: 20px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 15px;
+}
+.n1 .title{
+
+  width: 30%;
+  padding: 25px;
+   opacity: 5.0;
+}
+.n1{
+	height: 100px;
+	float: left;
+	padding-right: 20px;
+	width: 200px;
+	float: left;
+}
+.news1:hover, .news1:active{opacity: 5.0; background-color: #D9D9D9;}
+.news1:hover, .news1:active{opacity: 1.0; background-color: #D9D9D9;}
+
+.NEWS{
+	padding: 60px 50px 10px;
+}
